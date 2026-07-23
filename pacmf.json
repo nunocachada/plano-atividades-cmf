@@ -43,6 +43,15 @@
       "description": "Muita comida e muitos palavroes. Nao sei o que vaio acontecer"
     },
     {
+      "id": "p1-comprar-rabanadas",
+      "title": "Comprar Rabanadas",
+      "startDate": "2026-07-16",
+      "period": 1,
+      "time": "03:32",
+      "location": "Guimarães",
+      "description": "Manel das coives"
+    },
+    {
       "id": "p1-reuniao-ee-6-7-8",
       "title": "Reunião de Início de Ano com EE — 6º, 7º e 8º Graus",
       "startDate": "2026-09-11",
