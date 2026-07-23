@@ -33,6 +33,16 @@
       "description": "Encontro de abertura do ano letivo com o corpo docente. São apresentados calendário, prioridades pedagógicas e aspetos organizativos do 1.º período."
     },
     {
+      "id": "p1-jantarada-caquinhos",
+      "title": "Jantarada caquinhos",
+      "startDate": "2026-07-01",
+      "period": 1,
+      "time": "20:00",
+      "location": "Adega dos Caquinhos",
+      "notes": "Data a confirmar??????Ja rtemos",
+      "description": "Muita comida e muitos palavroes. Nao sei o que vaio acontecer"
+    },
+    {
       "id": "p1-reuniao-ee-6-7-8",
       "title": "Reunião de Início de Ano com EE — 6º, 7º e 8º Graus",
       "startDate": "2026-09-11",
