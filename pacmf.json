@@ -1,0 +1,497 @@
+{
+  "meta": {
+    "title": "Plano Anual de Atividades — Música",
+    "school": "Conservatório de Artes de Felgueiras (CAF)",
+    "schoolYear": "2026/2027",
+    "source": "PAA-Musica-2026-2027",
+    "calendar": {
+      "period1": {
+        "label": "1º Período",
+        "start": "2026-09-15",
+        "end": "2026-12-16"
+      },
+      "period2": {
+        "label": "2º Período",
+        "start": "2027-01-05",
+        "end": "2027-03-27"
+      },
+      "period3": {
+        "label": "3º Período",
+        "start": "2027-04-13",
+        "endNote": "5 jun (9º/11º/12º), 12 jun (5º–8º/10º), 30 jun (iniciação)"
+      }
+    }
+  },
+  "activities": [
+    {
+      "id": "p1-reuniao-geral-set",
+      "title": "Reunião Geral de Professores",
+      "startDate": "2026-09-09",
+      "time": "10:30",
+      "location": "CAF",
+      "period": 1
+    },
+    {
+      "id": "p1-marcacao-horarios",
+      "title": "Marcação de Horários de Instrumento",
+      "startDate": "2026-09-15",
+      "endDate": "2026-09-19",
+      "location": "CAF",
+      "period": 1
+    },
+    {
+      "id": "p1-inicio-iniciacao",
+      "title": "Início das Atividades Letivas de Iniciação Musical",
+      "startDate": "2026-09-12",
+      "period": 1
+    },
+    {
+      "id": "p1-inicio-letivas",
+      "title": "Início das Atividades Letivas",
+      "startDate": "2026-09-22",
+      "period": 1
+    },
+    {
+      "id": "p1-reuniao-ee-6-7-8",
+      "title": "Reunião de Início de Ano com EE — 6º, 7º e 8º Graus",
+      "startDate": "2026-09-11",
+      "time": "18:30",
+      "location": "CAF",
+      "period": 1
+    },
+    {
+      "id": "p1-reuniao-ee-iniciacao",
+      "title": "Reunião de Início de Ano com EE — Iniciação",
+      "startDate": "2026-09-15",
+      "time": "18:00",
+      "location": "CAF",
+      "period": 1
+    },
+    {
+      "id": "p1-reuniao-ee-1",
+      "title": "Reunião de Início de Ano com EE — 1º Grau",
+      "startDate": "2026-09-15",
+      "time": "19:00",
+      "location": "CAF",
+      "period": 1
+    },
+    {
+      "id": "p1-reuniao-ee-2",
+      "title": "Reunião de Início de Ano com EE — 2º Grau",
+      "startDate": "2026-09-16",
+      "time": "18:30",
+      "location": "CAF",
+      "period": 1
+    },
+    {
+      "id": "p1-reuniao-ee-3",
+      "title": "Reunião de Início de Ano com EE — 3º Grau",
+      "startDate": "2026-09-17",
+      "time": "18:30",
+      "location": "CAF",
+      "period": 1
+    },
+    {
+      "id": "p1-reuniao-ee-4-5",
+      "title": "Reunião de Início de Ano com EE — 4º e 5º Graus",
+      "startDate": "2026-09-18",
+      "time": "18:30",
+      "location": "CAF",
+      "period": 1
+    },
+    {
+      "id": "p1-audicoes-classe",
+      "title": "Audições de Classe",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-14",
+      "period": 1
+    },
+    {
+      "id": "p1-inscricao-transicao",
+      "title": "Inscrição para Provas de Transição de Grau",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-07",
+      "location": "CAF",
+      "period": 1
+    },
+    {
+      "id": "p1-provas-trim-escrito",
+      "title": "Provas Trimestrais — CC, FM (Escrito)",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-21",
+      "location": "CAF",
+      "period": 1
+    },
+    {
+      "id": "p1-provas-trim-oral",
+      "title": "Provas Trimestrais — FM (Oral) e Instrumento",
+      "startDate": "2026-11-24",
+      "endDate": "2026-11-28",
+      "location": "CAF",
+      "period": 1
+    },
+    {
+      "id": "p1-audicao-coro-2",
+      "title": "Audição Classes de Conjunto — Coro 2º Grau",
+      "startDate": "2026-12-09",
+      "time": "18:30",
+      "location": "A confirmar",
+      "period": 1
+    },
+    {
+      "id": "p1-audicao-orquestra",
+      "title": "Audição — Orquestra CMF, Coro Master, Rufinhos e Ensemble Dal Segno",
+      "startDate": "2026-12-10",
+      "time": "18:30",
+      "location": "A confirmar",
+      "period": 1
+    },
+    {
+      "id": "p1-audicao-camara",
+      "title": "Audição — Música de Câmara (Secundário)",
+      "startDate": "2026-12-12",
+      "time": "18:30",
+      "location": "A confirmar",
+      "period": 1
+    },
+    {
+      "id": "p1-audicao-coro-1",
+      "title": "Audição Classes de Conjunto — Coro 1º Grau",
+      "startDate": "2026-12-15",
+      "time": "18:30",
+      "location": "A confirmar",
+      "period": 1
+    },
+    {
+      "id": "p1-reuniao-avaliacao-dez",
+      "title": "Reunião de Avaliação — Professores",
+      "startDate": "2026-12-11",
+      "time": "10:00",
+      "location": "CAF",
+      "period": 1
+    },
+    {
+      "id": "p1-semana-extracurricular",
+      "title": "Semana de Atividades Extracurriculares",
+      "startDate": "2026-12-17",
+      "endDate": "2026-12-19",
+      "period": 1
+    },
+    {
+      "id": "p2-entrega-avaliacao-1",
+      "title": "Reuniões de Entrega de Avaliação do 1º Período",
+      "startDate": "2027-01-05",
+      "endDate": "2027-01-09",
+      "location": "CAF",
+      "period": 2
+    },
+    {
+      "id": "p2-visita-estudo",
+      "title": "Visita de Estudo",
+      "startDate": null,
+      "dateTbd": true,
+      "notes": "Data a confirmar",
+      "period": 2
+    },
+    {
+      "id": "p2-inscricao-transicao-2",
+      "title": "Inscrição para Provas de Transição de Grau (2ª fase)",
+      "startDate": "2027-02-02",
+      "endDate": "2027-02-06",
+      "location": "CAF",
+      "period": 2
+    },
+    {
+      "id": "p2-provas-transicao-2",
+      "title": "Provas de Transição de Grau (2ª fase)",
+      "startDate": "2027-02-23",
+      "endDate": "2027-02-27",
+      "location": "CAF",
+      "period": 2
+    },
+    {
+      "id": "p2-audicao-turma-4",
+      "title": "Audição de Turma — 4º Grau (DMFS)",
+      "startDate": "2027-02-19",
+      "period": 2
+    },
+    {
+      "id": "p2-audicao-turma-outras",
+      "title": "Audição de Turma — Alunos de outras escolas",
+      "startDate": "2027-02-20",
+      "notes": "20 e/ou 27 de fevereiro",
+      "period": 2
+    },
+    {
+      "id": "p2-audicao-turma-1",
+      "title": "Audição de Turma — 1º Grau (DMFS)",
+      "startDate": "2027-02-23",
+      "period": 2
+    },
+    {
+      "id": "p2-audicao-turma-2",
+      "title": "Audição de Turma — 2º Grau (DMFS)",
+      "startDate": "2027-02-24",
+      "period": 2
+    },
+    {
+      "id": "p2-audicao-turma-3",
+      "title": "Audição de Turma — 3º Grau (DMFS)",
+      "startDate": "2027-02-25",
+      "period": 2
+    },
+    {
+      "id": "p2-audicao-turma-5",
+      "title": "Audição de Turma — 5º Grau (DMFS)",
+      "startDate": "2027-02-26",
+      "period": 2
+    },
+    {
+      "id": "p2-provas-trim-escrito",
+      "title": "Provas Trimestrais — CC e FM (Escrita)",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-06",
+      "location": "CAF",
+      "period": 2
+    },
+    {
+      "id": "p2-provas-trim-oral",
+      "title": "Provas Trimestrais — FM (Oral) e Instrumento",
+      "startDate": "2027-03-09",
+      "endDate": "2027-03-13",
+      "location": "CAF",
+      "period": 2
+    },
+    {
+      "id": "p2-projeto-escola",
+      "title": "Projeto de Escola (Ensaios e Concerto)",
+      "startDate": "2027-03-16",
+      "endDate": "2027-03-21",
+      "location": "A confirmar",
+      "period": 2
+    },
+    {
+      "id": "p2-audicoes-secundario",
+      "title": "Audições — Secundário, Cursos Livres, Iniciação e Música de Câmara",
+      "startDate": "2027-03-23",
+      "endDate": "2027-03-27",
+      "period": 2
+    },
+    {
+      "id": "p2-reuniao-ee-5",
+      "title": "Reunião com EE — Alunos 5º Grau",
+      "startDate": "2027-03-25",
+      "time": "18:30",
+      "location": "CAF",
+      "period": 2
+    },
+    {
+      "id": "p2-reuniao-avaliacao-mar",
+      "title": "Reunião de Avaliação — Professores",
+      "startDate": "2027-03-26",
+      "time": "10:00",
+      "location": "CAF",
+      "period": 2
+    },
+    {
+      "id": "p2-semana-extracurricular",
+      "title": "Semana de Atividades Extracurriculares",
+      "startDate": "2027-03-30",
+      "endDate": "2027-04-02",
+      "location": "CAF",
+      "period": 2
+    },
+    {
+      "id": "p3-entrega-avaliacao-2",
+      "title": "Reuniões de Entrega de Avaliação do 2º Período",
+      "startDate": "2027-04-13",
+      "endDate": "2027-04-17",
+      "location": "CMF",
+      "period": 3
+    },
+    {
+      "id": "p3-concertos-pedagogicos",
+      "title": "Concertos Pedagógicos em EB1s do Concelho",
+      "startDate": "2027-04-13",
+      "endDate": "2027-04-24",
+      "location": "EB1s do Concelho",
+      "period": 3
+    },
+    {
+      "id": "p3-reuniao-final-ee-1",
+      "title": "Reunião de Final de Ano com EE — 1º Grau",
+      "startDate": "2027-04-27",
+      "time": "18:45",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-reuniao-final-ee-2",
+      "title": "Reunião de Final de Ano com EE — 2º Grau",
+      "startDate": "2027-04-28",
+      "time": "18:45",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-reuniao-final-ee-3-4",
+      "title": "Reunião de Final de Ano com EE — 3º e 4º Graus",
+      "startDate": "2027-04-29",
+      "time": "18:45",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-reuniao-final-ee-6-7-8",
+      "title": "Reunião de Final de Ano com EE — 6º, 7º e 8º Graus",
+      "startDate": "2027-04-30",
+      "time": "18:45",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-renovacao-matriculas",
+      "title": "Renovação de Matrículas para Ano Letivo 26/27",
+      "startDate": "2027-05-05",
+      "endDate": "2027-05-15",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-audicoes-classe",
+      "title": "Audições de Classe",
+      "startDate": "2027-05-11",
+      "endDate": "2027-05-20",
+      "period": 3
+    },
+    {
+      "id": "p3-provas-globais-escrito",
+      "title": "Provas Trimestrais/Globais — CC e FM (Escrita)",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-27",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-sessao-esclarecimento-4ano",
+      "title": "Sessões de Esclarecimento (Ensino Articulado) com EE — Alunos 4º Ano",
+      "startDate": "2027-05-26",
+      "time": "18:45",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-provas-globais-oral",
+      "title": "Provas Trimestrais/Globais — FM (Oral) e Instrumento",
+      "startDate": "2027-05-28",
+      "endDate": "2027-06-03",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-aptidao-musica-1",
+      "title": "Provas de Aptidão Música — 1ª Fase",
+      "startDate": "2027-05-30",
+      "time": "09:00",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-reuniao-avaliacao-jun-a",
+      "title": "Reunião de Avaliação — Professores (9º ano / 5º, 7º e 8º Graus)",
+      "startDate": "2027-06-03",
+      "time": "10:30",
+      "location": "Online",
+      "period": 3
+    },
+    {
+      "id": "p3-concertos-verao",
+      "title": "Concertos de Verão",
+      "startDate": "2027-06-05",
+      "endDate": "2027-06-06",
+      "location": "A confirmar",
+      "notes": "5 e/ou 6 de junho",
+      "period": 3
+    },
+    {
+      "id": "p3-reuniao-avaliacao-jun-b",
+      "title": "Reunião de Avaliação — Professores (1º–4º Graus, Iniciação e Supletivos)",
+      "startDate": "2027-06-11",
+      "time": "10:00",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-inscricao-equivalencia",
+      "title": "Inscrições para Provas de Equivalência à Frequência",
+      "startDate": "2027-06-15",
+      "endDate": "2027-06-19",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-escola-aberta-aptidao",
+      "title": "Escola Aberta / Provas de Aptidão Música e Teatro — 2ª Fase",
+      "startDate": "2027-06-16",
+      "endDate": "2027-06-17",
+      "time": "17:00",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-concurso-interno",
+      "title": "5ª Edição do Concurso Interno do CAF",
+      "startDate": "2027-06-22",
+      "endDate": "2027-06-23",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-recitais-merito",
+      "title": "Recitais de Mérito",
+      "startDate": "2027-06-24",
+      "endDate": "2027-06-26",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-provas-equivalencia",
+      "title": "Provas de Equivalência à Frequência",
+      "startDate": "2027-06-24",
+      "endDate": "2027-06-26",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-entrega-avaliacao-3",
+      "title": "Reuniões de Entrega de Avaliação do 3º Período",
+      "startDate": "2027-06-30",
+      "endDate": "2027-07-03",
+      "location": "CAF",
+      "period": 3
+    },
+    {
+      "id": "p3-apresentacao-aptidao",
+      "title": "Apresentação das Provas de Aptidão Artística",
+      "startDate": "2027-06-30",
+      "endDate": "2027-07-03",
+      "period": 3
+    },
+    {
+      "id": "p3-summer-rock",
+      "title": "Summer Rock",
+      "startDate": "2027-07-06",
+      "endDate": "2027-07-10",
+      "location": "CAF / Praça das Artes",
+      "period": 3
+    },
+    {
+      "id": "p3-reuniao-geral-jul",
+      "title": "Reunião Geral de Professores",
+      "startDate": "2027-07-23",
+      "time": "10:00",
+      "location": "CAF",
+      "period": 3
+    }
+  ]
+}
