@@ -29,7 +29,8 @@
       "startDate": "2026-09-09",
       "time": "10:30",
       "location": "CAF",
-      "period": 1
+      "period": 1,
+      "description": "Encontro de abertura do ano letivo com o corpo docente. São apresentados calendário, prioridades pedagógicas e aspetos organizativos do 1.º período."
     },
     {
       "id": "p1-marcacao-horarios",
@@ -37,19 +38,22 @@
       "startDate": "2026-09-15",
       "endDate": "2026-09-19",
       "location": "CAF",
-      "period": 1
+      "period": 1,
+      "description": "Semana dedicada à definição dos horários individuais de instrumento. Alunos e famílias devem contactar os professores para combinar o slot semanal."
     },
     {
       "id": "p1-inicio-iniciacao",
       "title": "Início das Atividades Letivas de Iniciação Musical",
       "startDate": "2026-09-12",
-      "period": 1
+      "period": 1,
+      "description": "Arranque oficial das aulas de Iniciação Musical. As crianças começam o percurso de descoberta sonora, ritmo e expressão musical no CAF."
     },
     {
       "id": "p1-inicio-letivas",
       "title": "Início das Atividades Letivas",
       "startDate": "2026-09-22",
-      "period": 1
+      "period": 1,
+      "description": "Início das atividades letivas para os restantes graus e cursos. Confirme o horário da turma e leve o material indicado pelo professor."
     },
     {
       "id": "p1-reuniao-ee-6-7-8",
@@ -57,7 +61,8 @@
       "startDate": "2026-09-11",
       "time": "18:30",
       "location": "CAF",
-      "period": 1
+      "period": 1,
+      "description": "Reunião de início de ano com encarregados de educação dos 6.º, 7.º e 8.º graus. Abordam-se objetivos, avaliação e acompanhamento do percurso do aluno."
     },
     {
       "id": "p1-reuniao-ee-iniciacao",
@@ -65,7 +70,8 @@
       "startDate": "2026-09-15",
       "time": "18:00",
       "location": "CAF",
-      "period": 1
+      "period": 1,
+      "description": "Sessão informativa para famílias da Iniciação. Explica-se o funcionamento das aulas, hábitos de estudo em casa e comunicação com a escola."
     },
     {
       "id": "p1-reuniao-ee-1",
@@ -73,7 +79,8 @@
       "startDate": "2026-09-15",
       "time": "19:00",
       "location": "CAF",
-      "period": 1
+      "period": 1,
+      "description": "Reunião de acolhimento para encarregados de educação do 1.º grau. Apresentação da equipa pedagógica e das expectativas do primeiro ano de instrumento."
     },
     {
       "id": "p1-reuniao-ee-2",
@@ -81,7 +88,8 @@
       "startDate": "2026-09-16",
       "time": "18:30",
       "location": "CAF",
-      "period": 1
+      "period": 1,
+      "description": "Encontro com famílias do 2.º grau para alinhar acompanhamento pedagógico, rotinas de estudo e participação em audições ao longo do ano."
     },
     {
       "id": "p1-reuniao-ee-3",
@@ -89,7 +97,8 @@
       "startDate": "2026-09-17",
       "time": "18:30",
       "location": "CAF",
-      "period": 1
+      "period": 1,
+      "description": "Reunião com encarregados de educação do 3.º grau. Foco no progressão técnica, avaliação contínua e calendário de provas do período."
     },
     {
       "id": "p1-reuniao-ee-4-5",
@@ -97,14 +106,16 @@
       "startDate": "2026-09-18",
       "time": "18:30",
       "location": "CAF",
-      "period": 1
+      "period": 1,
+      "description": "Sessão conjunta para famílias dos 4.º e 5.º graus. Inclui informação sobre transição de grau, projeto artístico e exigências do currículo."
     },
     {
       "id": "p1-audicoes-classe",
       "title": "Audições de Classe",
       "startDate": "2026-11-03",
       "endDate": "2026-11-14",
-      "period": 1
+      "period": 1,
+      "description": "Ciclo de audições em contexto de aula, onde os alunos apresentam o trabalho preparado com o professor. Momento formativo e de partilha entre pares."
     },
     {
       "id": "p1-inscricao-transicao",
@@ -112,7 +123,8 @@
       "startDate": "2026-11-03",
       "endDate": "2026-11-07",
       "location": "CAF",
-      "period": 1
+      "period": 1,
+      "description": "Período de inscrição para as provas de transição de grau. As candidaturas são formalizadas nos serviços do CAF dentro destas datas."
     },
     {
       "id": "p1-provas-trim-escrito",
@@ -120,7 +132,8 @@
       "startDate": "2026-11-17",
       "endDate": "2026-11-21",
       "location": "CAF",
-      "period": 1
+      "period": 1,
+      "description": "Provas escritas trimestrais de Ciências Musicais e Formação Musical. Os alunos devem confirmar sala, horário e material permitido com o docente."
     },
     {
       "id": "p1-provas-trim-oral",
@@ -128,7 +141,8 @@
       "startDate": "2026-11-24",
       "endDate": "2026-11-28",
       "location": "CAF",
-      "period": 1
+      "period": 1,
+      "description": "Provas orais de Formação Musical e avaliação de Instrumento do 1.º período. Prepare o repertório e a matéria indicada pelo professor."
     },
     {
       "id": "p1-audicao-coro-2",
@@ -136,7 +150,8 @@
       "startDate": "2026-12-09",
       "time": "18:30",
       "location": "A confirmar",
-      "period": 1
+      "period": 1,
+      "description": "Apresentação pública do Coro de 2.º grau. Ensaio prévio com o docente responsável; o local definitivo será comunicado atempadamente."
     },
     {
       "id": "p1-audicao-orquestra",
@@ -144,7 +159,8 @@
       "startDate": "2026-12-10",
       "time": "18:30",
       "location": "A confirmar",
-      "period": 1
+      "period": 1,
+      "description": "Concerto conjunto da Orquestra CMF, Coro Master, Rufinhos e Ensemble Dal Segno. Evento aberto à comunidade escolar e famílias."
     },
     {
       "id": "p1-audicao-camara",
@@ -152,7 +168,8 @@
       "startDate": "2026-12-12",
       "time": "18:30",
       "location": "A confirmar",
-      "period": 1
+      "period": 1,
+      "description": "Audição de Música de Câmara do ensino secundário. Grupos de câmara apresentam obras trabalhadas ao longo do período."
     },
     {
       "id": "p1-audicao-coro-1",
@@ -160,7 +177,8 @@
       "startDate": "2026-12-15",
       "time": "18:30",
       "location": "A confirmar",
-      "period": 1
+      "period": 1,
+      "description": "Apresentação do Coro de 1.º grau em audição de classes de conjunto. Momento de estreia pública para muitos alunos mais novos."
     },
     {
       "id": "p1-reuniao-avaliacao-dez",
@@ -168,14 +186,16 @@
       "startDate": "2026-12-11",
       "time": "10:00",
       "location": "CAF",
-      "period": 1
+      "period": 1,
+      "description": "Conselho de avaliação do 1.º período entre docentes. São analisados progressos, dificuldades e propostas de apoio pedagógico."
     },
     {
       "id": "p1-semana-extracurricular",
       "title": "Semana de Atividades Extracurriculares",
       "startDate": "2026-12-17",
       "endDate": "2026-12-19",
-      "period": 1
+      "period": 1,
+      "description": "Semana com atividades complementares ao currículo formal: workshops, ensaios abertos e experiências artísticas diversificadas."
     },
     {
       "id": "p2-entrega-avaliacao-1",
@@ -183,7 +203,8 @@
       "startDate": "2027-01-05",
       "endDate": "2027-01-09",
       "location": "CAF",
-      "period": 2
+      "period": 2,
+      "description": "Reuniões individuais ou por turma para entrega e explicação das avaliações do 1.º período aos encarregados de educação."
     },
     {
       "id": "p2-visita-estudo",
@@ -191,7 +212,8 @@
       "startDate": null,
       "dateTbd": true,
       "notes": "Data a confirmar",
-      "period": 2
+      "period": 2,
+      "description": "Saída pedagógica a definir (museu, concerto, ensaio ou instituição cultural). A data, o local e o valor serão comunicados quando confirmados."
     },
     {
       "id": "p2-inscricao-transicao-2",
@@ -199,7 +221,8 @@
       "startDate": "2027-02-02",
       "endDate": "2027-02-06",
       "location": "CAF",
-      "period": 2
+      "period": 2,
+      "description": "Segunda fase de inscrição para provas de transição de grau. Destina-se a quem não se candidatou na 1.ª fase ou tem nova oportunidade."
     },
     {
       "id": "p2-provas-transicao-2",
@@ -207,44 +230,51 @@
       "startDate": "2027-02-23",
       "endDate": "2027-02-27",
       "location": "CAF",
-      "period": 2
+      "period": 2,
+      "description": "Realização das provas de transição de grau (2.ª fase). Os alunos devem cumprir o programa oficial e as regras de presença definidas."
     },
     {
       "id": "p2-audicao-turma-4",
       "title": "Audição de Turma — 4º Grau (DMFS)",
       "startDate": "2027-02-19",
-      "period": 2
+      "period": 2,
+      "description": "Audição de turma do 4.º grau (DMFS). Os alunos apresentam o repertório trabalhado em aula perante colegas e famílias."
     },
     {
       "id": "p2-audicao-turma-outras",
       "title": "Audição de Turma — Alunos de outras escolas",
       "startDate": "2027-02-20",
       "notes": "20 e/ou 27 de fevereiro",
-      "period": 2
+      "period": 2,
+      "description": "Audição destinada a alunos que frequentam o CAF vindos de outras escolas. Pode decorrer a 20 e/ou 27 de fevereiro, conforme organização."
     },
     {
       "id": "p2-audicao-turma-1",
       "title": "Audição de Turma — 1º Grau (DMFS)",
       "startDate": "2027-02-23",
-      "period": 2
+      "period": 2,
+      "description": "Audição de turma do 1.º grau (DMFS). Espaço seguro para as primeiras apresentações públicas do ano no instrumento."
     },
     {
       "id": "p2-audicao-turma-2",
       "title": "Audição de Turma — 2º Grau (DMFS)",
       "startDate": "2027-02-24",
-      "period": 2
+      "period": 2,
+      "description": "Audição de turma do 2.º grau (DMFS). Momento de consolidação técnica e musical perante a comunidade escolar."
     },
     {
       "id": "p2-audicao-turma-3",
       "title": "Audição de Turma — 3º Grau (DMFS)",
       "startDate": "2027-02-25",
-      "period": 2
+      "period": 2,
+      "description": "Audição de turma do 3.º grau (DMFS). Os alunos partilham o progresso do 2.º período com famílias e colegas."
     },
     {
       "id": "p2-audicao-turma-5",
       "title": "Audição de Turma — 5º Grau (DMFS)",
       "startDate": "2027-02-26",
-      "period": 2
+      "period": 2,
+      "description": "Audição de turma do 5.º grau (DMFS). Apresentações com maior exigência interpretativa, alinhadas com o nível do grau."
     },
     {
       "id": "p2-provas-trim-escrito",
@@ -252,7 +282,8 @@
       "startDate": "2027-03-02",
       "endDate": "2027-03-06",
       "location": "CAF",
-      "period": 2
+      "period": 2,
+      "description": "Provas escritas trimestrais de Ciências Musicais e Formação Musical do 2.º período. Confirme calendário por turma."
     },
     {
       "id": "p2-provas-trim-oral",
@@ -260,7 +291,8 @@
       "startDate": "2027-03-09",
       "endDate": "2027-03-13",
       "location": "CAF",
-      "period": 2
+      "period": 2,
+      "description": "Provas orais de Formação Musical e avaliação de Instrumento do 2.º período. Prepare escalas, leitura e repertório pedido."
     },
     {
       "id": "p2-projeto-escola",
@@ -268,14 +300,16 @@
       "startDate": "2027-03-16",
       "endDate": "2027-03-21",
       "location": "A confirmar",
-      "period": 2
+      "period": 2,
+      "description": "Semana intensiva do Projeto de Escola: ensaios e concerto final. Envolve várias classes e valoriza o trabalho coletivo."
     },
     {
       "id": "p2-audicoes-secundario",
       "title": "Audições — Secundário, Cursos Livres, Iniciação e Música de Câmara",
       "startDate": "2027-03-23",
       "endDate": "2027-03-27",
-      "period": 2
+      "period": 2,
+      "description": "Ciclo de audições do secundário, cursos livres, iniciação e música de câmara. Vários momentos de apresentação ao longo da semana."
     },
     {
       "id": "p2-reuniao-ee-5",
@@ -283,7 +317,8 @@
       "startDate": "2027-03-25",
       "time": "18:30",
       "location": "CAF",
-      "period": 2
+      "period": 2,
+      "description": "Reunião específica com encarregados de educação dos alunos de 5.º grau. Foco na transição, provas e orientação do percurso seguinte."
     },
     {
       "id": "p2-reuniao-avaliacao-mar",
@@ -291,7 +326,8 @@
       "startDate": "2027-03-26",
       "time": "10:00",
       "location": "CAF",
-      "period": 2
+      "period": 2,
+      "description": "Reunião de avaliação docente do 2.º período. Análise de resultados e planeamento do 3.º período."
     },
     {
       "id": "p2-semana-extracurricular",
@@ -299,7 +335,8 @@
       "startDate": "2027-03-30",
       "endDate": "2027-04-02",
       "location": "CAF",
-      "period": 2
+      "period": 2,
+      "description": "Semana de atividades extracurriculares no CAF, com propostas artísticas e lúdicas fora do horário letivo habitual."
     },
     {
       "id": "p3-entrega-avaliacao-2",
@@ -307,7 +344,8 @@
       "startDate": "2027-04-13",
       "endDate": "2027-04-17",
       "location": "CMF",
-      "period": 3
+      "period": 3,
+      "description": "Entrega das avaliações do 2.º período aos encarregados de educação. Esclarecimentos sobre progressão e planos de melhoria."
     },
     {
       "id": "p3-concertos-pedagogicos",
@@ -315,7 +353,8 @@
       "startDate": "2027-04-13",
       "endDate": "2027-04-24",
       "location": "EB1s do Concelho",
-      "period": 3
+      "period": 3,
+      "description": "Concertos pedagógicos levados a escolas EB1 do concelho. Os alunos do CAF partilham música em contexto de divulgação e cidadania."
     },
     {
       "id": "p3-reuniao-final-ee-1",
@@ -323,7 +362,8 @@
       "startDate": "2027-04-27",
       "time": "18:45",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "Reunião de final de ano com famílias do 1.º grau. Balanço do percurso e recomendações para o estudo nas férias."
     },
     {
       "id": "p3-reuniao-final-ee-2",
@@ -331,7 +371,8 @@
       "startDate": "2027-04-28",
       "time": "18:45",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "Encontro de encerramento com encarregados de educação do 2.º grau. Síntese da evolução e perspetivas para o próximo ano."
     },
     {
       "id": "p3-reuniao-final-ee-3-4",
@@ -339,7 +380,8 @@
       "startDate": "2027-04-29",
       "time": "18:45",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "Reunião final com famílias dos 3.º e 4.º graus. Informação sobre avaliação global, renovação e continuidade do estudo."
     },
     {
       "id": "p3-reuniao-final-ee-6-7-8",
@@ -347,7 +389,8 @@
       "startDate": "2027-04-30",
       "time": "18:45",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "Sessão de fecho do ano com encarregados de educação dos 6.º, 7.º e 8.º graus. Orientações sobre provas, mérito e próximos passos."
     },
     {
       "id": "p3-renovacao-matriculas",
@@ -355,14 +398,16 @@
       "startDate": "2027-05-05",
       "endDate": "2027-05-15",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "Período oficial de renovação de matrículas para o ano letivo seguinte. Trate da documentação nos serviços administrativos do CAF."
     },
     {
       "id": "p3-audicoes-classe",
       "title": "Audições de Classe",
       "startDate": "2027-05-11",
       "endDate": "2027-05-20",
-      "period": 3
+      "period": 3,
+      "description": "Audições de classe do 3.º período. Últimas apresentações formativas antes das provas finais e globais."
     },
     {
       "id": "p3-provas-globais-escrito",
@@ -370,7 +415,8 @@
       "startDate": "2027-05-21",
       "endDate": "2027-05-27",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "Provas escritas trimestrais/globais de Ciências Musicais e Formação Musical. Avaliam o trabalho acumulado do ano."
     },
     {
       "id": "p3-sessao-esclarecimento-4ano",
@@ -378,7 +424,8 @@
       "startDate": "2027-05-26",
       "time": "18:45",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "Sessões de esclarecimento sobre o Ensino Articulado para famílias de alunos do 4.º ano. Apoio à decisão de continuidade no percurso musical."
     },
     {
       "id": "p3-provas-globais-oral",
@@ -386,7 +433,8 @@
       "startDate": "2027-05-28",
       "endDate": "2027-06-03",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "Provas orais de Formação Musical e Instrumento (trimestrais/globais). Momento decisivo da avaliação final do ano."
     },
     {
       "id": "p3-aptidao-musica-1",
@@ -394,7 +442,8 @@
       "startDate": "2027-05-30",
       "time": "09:00",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "1.ª fase das Provas de Aptidão em Música. Destinadas a candidatos que pretendem ingressar ou validar competências para o curso."
     },
     {
       "id": "p3-reuniao-avaliacao-jun-a",
@@ -402,7 +451,8 @@
       "startDate": "2027-06-03",
       "time": "10:30",
       "location": "Online",
-      "period": 3
+      "period": 3,
+      "description": "Conselho de avaliação online para 9.º ano e 5.º, 7.º e 8.º graus. Fecho de pautas e decisões pedagógicas finais."
     },
     {
       "id": "p3-concertos-verao",
@@ -411,7 +461,8 @@
       "endDate": "2027-06-06",
       "location": "A confirmar",
       "notes": "5 e/ou 6 de junho",
-      "period": 3
+      "period": 3,
+      "description": "Concertos de Verão abertos à comunidade. Podem decorrer a 5 e/ou 6 de junho; o cartaz definitivo será anunciado pela escola."
     },
     {
       "id": "p3-reuniao-avaliacao-jun-b",
@@ -419,7 +470,8 @@
       "startDate": "2027-06-11",
       "time": "10:00",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "Reunião de avaliação presencial para 1.º–4.º graus, Iniciação e cursos supletivos. Conclusão do processo avaliativo do ano."
     },
     {
       "id": "p3-inscricao-equivalencia",
@@ -427,7 +479,8 @@
       "startDate": "2027-06-15",
       "endDate": "2027-06-19",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "Inscrições para provas de equivalência à frequência. Dirigidas a quem precisa desta via de certificação ou recuperação."
     },
     {
       "id": "p3-escola-aberta-aptidao",
@@ -436,7 +489,8 @@
       "endDate": "2027-06-17",
       "time": "17:00",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "Escola Aberta com provas de aptidão de Música e Teatro (2.ª fase). Oportunidade para a comunidade conhecer o CAF e candidatar-se."
     },
     {
       "id": "p3-concurso-interno",
@@ -444,7 +498,8 @@
       "startDate": "2027-06-22",
       "endDate": "2027-06-23",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "5.ª edição do Concurso Interno do CAF. Os alunos competem em categorias definidas, com júri e reconhecimento de mérito artístico."
     },
     {
       "id": "p3-recitais-merito",
@@ -452,7 +507,8 @@
       "startDate": "2027-06-24",
       "endDate": "2027-06-26",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "Recitais dos alunos distinguidos ao longo do ano. Apresentações solistas ou em pequeno grupo em ambiente de concerto."
     },
     {
       "id": "p3-provas-equivalencia",
@@ -460,7 +516,8 @@
       "startDate": "2027-06-24",
       "endDate": "2027-06-26",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "Realização das provas de equivalência à frequência. Os candidatos devem cumprir o programa e horários afixados."
     },
     {
       "id": "p3-entrega-avaliacao-3",
@@ -468,14 +525,16 @@
       "startDate": "2027-06-30",
       "endDate": "2027-07-03",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "Entrega das avaliações do 3.º período e fecho do ano letivo com as famílias. Momento de balanço e celebração do percurso."
     },
     {
       "id": "p3-apresentacao-aptidao",
       "title": "Apresentação das Provas de Aptidão Artística",
       "startDate": "2027-06-30",
       "endDate": "2027-07-03",
-      "period": 3
+      "period": 3,
+      "description": "Apresentação pública das Provas de Aptidão Artística. Os candidatos mostram o trabalho preparado perante júri e assistentes."
     },
     {
       "id": "p3-summer-rock",
@@ -483,7 +542,8 @@
       "startDate": "2027-07-06",
       "endDate": "2027-07-10",
       "location": "CAF / Praça das Artes",
-      "period": 3
+      "period": 3,
+      "description": "Semana Summer Rock no CAF e na Praça das Artes: bandas, workshops e ambiente informal de música contemporânea e rock."
     },
     {
       "id": "p3-reuniao-geral-jul",
@@ -491,7 +551,8 @@
       "startDate": "2027-07-23",
       "time": "10:00",
       "location": "CAF",
-      "period": 3
+      "period": 3,
+      "description": "Reunião geral de professores de encerramento. Balanço do ano, organização de dossiers e preparação do ano letivo seguinte."
     }
   ]
 }
