@@ -52,6 +52,15 @@
       "description": "Manel das coives"
     },
     {
+      "id": "p1-teste-para-quando-acordar",
+      "title": "Teste para quando acordar",
+      "startDate": "2026-07-24",
+      "period": 1,
+      "time": "11:04",
+      "location": "Braga",
+      "description": "só para testar se estao a funcionar os lembretes"
+    },
+    {
       "id": "p1-reuniao-ee-6-7-8",
       "title": "Reunião de Início de Ano com EE — 6º, 7º e 8º Graus",
       "startDate": "2026-09-11",
